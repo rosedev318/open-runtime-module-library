@@ -1,3 +1,4 @@
+
 //! # Authority
 //! A module to provide features for governance including dispatch method on
 //! behalf of other accounts and schedule dispatchables.
